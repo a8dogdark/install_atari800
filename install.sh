@@ -21,7 +21,6 @@ if [[ $usuario == "root" ]]; then
   unzip ATARI800_5_0_0
   echo "realizamos la configuracion"
   sleep 3
-  chmod 777 -R atari800-ATARI800_5_0_0
   cd atari800-ATARI800_5_0_0
   ./autogen.sh
   ./configure
