@@ -22,3 +22,9 @@ Realizamos la instalación
 ```bash
 ./install.sh
 ```
+
+Terminado el proceso de instalación, ejecutamos desde la terminal
+
+```bash
+./atari800
+```
